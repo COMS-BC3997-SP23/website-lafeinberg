@@ -65,9 +65,16 @@ Analysis:
 ## Conclusion
 Robot design and generation traverse a space that is confined to what the researchers think. The scope of design rarely ever diverges from pre-existing entities. Evolutionary algorithms allow computers and robots to do their own job of generation and manufacturing. They help taxing problems, which have applications in robotics, gaming, biology, and even sociology. The development of these algorithms allows for researchers to streamline their production process to optimize for a certain quantity such as materials, speed, a certain motion, etc. Given that the FI2Pop algorithm, in particular, has not been developed yet, we are able to compare it with other algorithms in a pre-existing space, Evolution Gym.
 
+## Timeline
 
-
-
++ Weeks 1-2: Exploration: Research overarching concepts, Generate a simple fi-2pop algorithm, Get acquainted with neural networks, evolutionary algorithms, and Evolution Gym.
++ Week 3-5: Execution: Write the actual Fi2-pop algorithm mwit ha fitness function suited for Voxel2 based robots.
++ Weeks 4-5: Testing: Simulate in Evolution Gym.
++ Weeks 6-8: Revisions: Make changes to algorithms to optimize execution in Evolution Gym.
++ Weeks 6-8: Analysis: Run statistical analysis on performance of algorithms in COMPARISON with others in Evolution Gym.
++ Iterate.
++ Weeks 9-10: Week Learn ins and outs of academic writing: read more articles, write an annotated bibliography, practice writing.
++ Weeks 10-15 (throughout research process): Paper: Generate a written research paper on the subject, collaborate with Lily Seoror on physical robots to generate cumulative research paper.
 
 
 ## Office Hours
