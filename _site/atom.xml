@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>COMS BC3997 Project</title>
+	<updated>2023-02-20T18:08:48-05:00</updated>
+
+	<subtitle>»An Exploration of the Feasible-Infeasible Two Population Algorithm in Evolutionary Robotics</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Luci Feinberg</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/jekyll/update/welcome-to-jekyll/</id>
+			<title>Welcome to Jekyll!</title>
+			<link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+			<updated>2023-02-06T18:21:31-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="jekyll" />
+			
+				<category term="update" />
+			
+			
+
+			<published>2023-02-06T18:21:31-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/mediaelement_js/</id>
+			<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
+			<link href="http://localhost:4000/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
+			<updated>2015-10-15T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of &lt;em&gt;mediaelement.js&lt;/em&gt;. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To use the player just use some HTML5-magic like…&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;audio&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://path-to-file.com/music.mp3&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;audio/mp3&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;controls=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;controls&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/audio&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;All possible functions and how to use &lt;em&gt;mediaelement.js&lt;/em&gt; is well-documented on the &lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;players website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;music-from-all-around-the-world&quot;&gt;»Music From All Around The World«&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;»Music From All Around The World«&lt;/a&gt; is a compilation curated by Jeannette Corneille and Moritz “mo.” Sauer for &lt;a href=&quot;http://phlow-magazine.com/&quot;&gt;Phlow-Magazine.com&lt;/a&gt;. Cover &lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;Artwork designed by Jeannette Corneille&lt;/a&gt;. All tracks were released under a &lt;a href=&quot;http://jcorneille.de/&quot;&gt;creative commons licence&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;b-ju---philly-run&quot;&gt;B-Ju - »Philly Run«&lt;/h3&gt;
+
+&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3 id=&quot;comfort-fit---freeze-the-cut&quot;&gt;Comfort Fit - »Freeze The Cut«&lt;/h3&gt;
+
+&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/05._music_from_all_around_the_world_-_comfort_fit_-_freeze_the_cut_opolopos_emotional_draft_remix.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3 id=&quot;the-black-atlantic---dandelion&quot;&gt;The Black Atlantic - »Dandelion«&lt;/h3&gt;
+
+&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="audio player" />
+			
+				<category term="video player" />
+			
+				<category term="streaming music" />
+			
+
+			<published>2015-10-15T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/typography/typography/</id>
+			<title>Weekly updates</title>
+			<link href="http://localhost:4000/design/typography/typography/" rel="alternate" type="text/html" title="Weekly updates" />
+			<updated>2015-08-16T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>Week #1 and Week #2 focused primarily on understanding what Evolutionary Algorithms are. I completeing reading assisgnments on what researchs NEEDS to be done in EAs to craft a proposal that made sense for 1. Professor Soros&apos; research, 2. What needs to be done in the field, and 3. What is interesting and feasible for me.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/typography/typography/">&lt;!--more--&gt;
+
+&lt;h2 id=&quot;checklist&quot;&gt;Checklist&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Read papers&lt;/li&gt;
+  &lt;li&gt;Background papers&lt;/li&gt;
+  &lt;li&gt;Read papers&lt;/li&gt;
+  &lt;li&gt;Set up evolution gym (include link to video)&lt;/li&gt;
+  &lt;li&gt;Problem: incompatible with Evolution Gym&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot; markdown=&quot;1&quot;&gt;
+&lt;div class=&quot;panel radius&quot; markdown=&quot;1&quot;&gt;
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+&lt;/div&gt;
+&lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+&lt;!-- 
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot; markdown=&quot;1&quot;&gt; --&gt;
+&lt;p&gt;–&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-1-the-nature-of-code-by-daniel-shiffman&quot;&gt;Reading #1: The Nature of Code, By Daniel Shiffman&lt;/h2&gt;
+
+&lt;p&gt;Evolutionary algorithms are a class of optimization algorithms inspired by the process of natural selection in biological evolution. They are used to find solutions to complex problems by mimicking the process of natural selection, where the best-fit individuals survive and reproduce, passing on their genetic traits to the next generation.&lt;/p&gt;
+
+&lt;p&gt;Evolutionary algorithms work by iteratively generating a population of candidate solutions to a problem, evaluating their fitness or performance, and then selecting the fittest individuals to “reproduce” and create a new generation of candidate solutions. This process of selection, crossover, and mutation is repeated over multiple generations until an optimal or satisfactory solution is found.&lt;/p&gt;
+
+&lt;p&gt;There are different types of evolutionary algorithms, including genetic algorithms, evolution strategies, and genetic programming, among others. These algorithms have been applied to a wide range of problems, including optimization, machine learning, robotics, and more.&lt;/p&gt;
+
+&lt;p&gt;(INSERT PICTURE)&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-2-real-world-robot-evolution-why-would-it-not-work-by-ae-eiben&quot;&gt;Reading #2 Real-World Robot Evolution: Why Would it (not) Work?, by A.E Eiben&lt;/h2&gt;
+
+&lt;p&gt;A.E Eiben explores merits, drawbacks, and possibility of fabricating a physical robot evolution. The main relevance in the study are the stages of robot evolution and the intersection between simulation and physical realization of robot evolution. Practically, Eiben deeply outlines the “Stages of Life ‘’ of robotic evolution and specifics ways to combat obstacles of time, space, and resources - all having applications to simulations as well.&lt;/p&gt;
+
+&lt;p&gt;The ultimate process of robot creation has many decisions: what are the degrees humans should be involved in selection and reproduction (the four systems of robot evolution, pages 3-4)?, when/should robots go through an internal stage of “learning” during “infancy” (learning and robot infancy, pages 4-5)?, to what extent should digital evolution replicate a biological one (genotype filtering, pages 6-7)?, and how can we use simulation and physical fabrication hand in hand (hydrid evolution: two populations, one species, page 7)? All of these questions are answered through addressing the impending issues regarding the practicality of simulations, time/space, and complexity of evolution. Subsequently, the author outlines practical steps of robot evolution, indicating for it to work, researchers much automate the evaluation of robot behavior, use EAs to evolve robot learning during infancy, define a controller trait space that
+Identify peropties that capture and quantify aspects of robotic brains. All said, Eiden is optimistic that the evolution of robots lies in the foreseeable future, but must rely on hybridization with simulation to optimize efficiency of the complex evolutionary process.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-3-evolutionary-robotics-what-why-and-where-to-by-doncieux-et-al&quot;&gt;Reading #3: Evolutionary robotics: what, why, and where to, by Doncieux et al.&lt;/h2&gt;
+&lt;p&gt;Doncieux et al. outline the basis of Evolutionary Algorithms and how it allows inspection of all aspects of robotics simultaneously: morphology, motor systems, controller, and body. EAs lie at the intersection of biology, mathematics, and physics. The authors examine who is impacted by ERs, applications of the scientific method, and their issues and expected results. 
+Biologists and engineers can optimize robotics to explore their individual facets: engineers can create a holistic approach to robot design, extend design space, and intertwine simulation with models. Conversely, biologists may be able to study the evolutionary process itself, as we only observe one evolutionary system (Earth). Subsequently, Doncieux et al. explore how people can contribute to the field, specifically outlining effect methods to generate questions (mentioned below). Given the stochastic nature of EAs, research must be done in trials. They then delve into specific subfields of ERs: neural networks for a good controller paradigm, performance oriented fitness, selective pressure, and complexification. Finally, they outline the problems with ERs, including projecting the robots in the real world, whether Earth evolution is the benchmark for all evolutionary processes, the intersection between evolution and learning. In addition, evolutionary robotics can also be used to answer non-techinical questions such as the relation between the mind and body, definition of intelligence, evolution on social behaviors, and existence. It is clear that there is still much to learn to improve robotics, optimize the algorithms, and project them into the world. The whole process has barriers and questions such as the existence of an operational period, the “reality gap”, and the roles of humans in the process. With all considered, it is optimal in generating systems that holistically considers the evolution of agents or a broader system. Thus, this process can be used to analyze large scale models of populations to model phenomena that are difficult to study whether it be evolution, robotic control systems, or the concept of intelligence itself.&lt;/p&gt;
+
+&lt;p&gt;Steps for creating a question:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Determine main context of question&lt;/li&gt;
+  &lt;li&gt;Come up with answerable questions&lt;/li&gt;
+  &lt;li&gt;Generate a hypothesis&lt;/li&gt;
+  &lt;li&gt;The question must be answerable and concnievedble after many iterations + through the algorithm. (The process must rely on multiple trials).&lt;/li&gt;
+  &lt;li&gt;What would the results imply? What kind of results would validate or refute the hypothesis?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reading-4-evolution-gym-sculpts-novel-robot-bodies-and-brains&quot;&gt;Reading #4: Evolution Gym Sculpts Novel Robot Bodies and Brains&lt;/h2&gt;
+
+&lt;p&gt;M.I.T researchers have developed Evolution Gym that seeks to use evolutionary algorithms with soft robots. Engineers and designers tend to model bodies of robots after pre-existing entities that already complete the job; however, this technology seeks to evolve robots to specific jobs to optimize functionality not encompassed by physical models. 
+The Evolution Gym relies on two algorithms: an algorithm that generates the preliminary robot designs (design-optimization algorithm), and an algorithm that measures and scores their performance (control-optimization algorithm). By determining the fitness, they allow the soft robots to perform simple tasks such as traversing a minimal terrain, moving a box, climbing, etc. Essentially, what is already observed is the robots select for traits that do not necessarily replicate human or pre-existing being functioning. It is open-sourced, and can be used in our research by:
+Use as benchmark to create and test our own algorithms
+Measure how differently algorithms stack up
+With Evolution Gym, it creates a smaller environment specifically for voxel-based soft-robots, a field of robotics that is not greatly explored.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-5-evolution-gym-a-large-scale-benchmark-for-evolving-soft-robots&quot;&gt;Reading #5: Evolution Gym: A Large-Scale Benchmark for Evolving Soft-Robots&lt;/h2&gt;
+&lt;p&gt;Evolution Gym surrounds finding the ideal robot “design” rather than “control”. Evolution Gym is the first software to attempt to co-optimize both the design and the control. It creates an environment that contains tasks including locomotion and manipulation of different terrains. They combine RL with optimization techniques to simulate complex evolution within those envrionments.
+The purpose of the Evolution Gym is to explore co-design to solve problems regarding 1. The long control optimization loop, 2. Provide a platform to test different algorithms.&lt;/p&gt;
+
+&lt;h2 id=&quot;defining-overall-concepts&quot;&gt;Defining overall concepts:&lt;/h2&gt;
+&lt;dl&gt;
+  &lt;dt&gt;Evolutionary Algorithms Merits and Drawbacks&lt;/dt&gt;
+  &lt;dd&gt;Can be used as a foundation for evolutionary robots. Although they work under multiple otimza, noise, lack of analytical models, there is an inevitable time scale and limitations in complexity of co-evlvoning the brain and body of robots.&lt;/dd&gt;
+  &lt;dt&gt;Evolutionary robotics&lt;/dt&gt;
+  &lt;dd&gt;Field for using evolutionary algorithms for designing and optimizing the body and brain of “real” robots”.&lt;/dd&gt;
+  &lt;dt&gt;Robot evolution&lt;/dt&gt;
+  &lt;dd&gt;The fabrication and system of tangible robots reproducing in our physical environment.&lt;/dd&gt;
+  &lt;dt&gt;Four System Types&lt;/dt&gt;
+  &lt;dd&gt;A proposed taxonomy that partitions the degree of human intervention in selection and reproduction (Type 1: Full human intervention in breeding and selection, Type 4: robot autonomy in reproduction and selection).&lt;/dd&gt;
+  &lt;dt&gt;Optimization vs. Adaption&lt;/dt&gt;
+  &lt;dd&gt;The difference between type 1 and 4- robots in type 1 can optomize themselves for a specific constrint or optima (optimize), while type 4 is dynamic to the environment (adapts and optimizes).&lt;/dd&gt;
+  &lt;dt&gt;Stages of Life&lt;/dt&gt;
+  &lt;dd&gt;Morphogenesis: Creating robot phenotype based on genotype, Infancy: “learning”, Maturity: Unsupervised learning and operation phase.&lt;/dd&gt;
+  &lt;dt&gt;Double evolutionary system&lt;/dt&gt;
+  &lt;dd&gt;Pseudocode that outlines the evolutionary system of “infancy”, where an outer loop optimizes the brian and body, nesting the inner loop optimizes the controller in a fixed body.&lt;/dd&gt;
+  &lt;dt&gt;Hybrid evolution&lt;/dt&gt;
+  &lt;dd&gt;Co-use of simulation and physical robots to accelerate finding “optimimal” body for a robot in simulation while realizing it to improve accuracy using physical robots.&lt;/dd&gt;
+&lt;/dl&gt;
+</content>
+
+			
+				<category term="design" />
+			
+				<category term="typography" />
+			
+			
+
+			<published>2015-08-16T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/comments/</id>
+			<title>Now with Comments!</title>
+			<link href="http://localhost:4000/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
+			<updated>2015-08-15T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It&apos;s easy to set, it works and makes a static jekyll blog more dynamic.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="design" />
+			
+			
+
+			<published>2015-08-15T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/no-header/</id>
+			<title>No Header</title>
+			<link href="http://localhost:4000/design/no-header/" rel="alternate" type="text/html" title="No Header" />
+			<updated>2015-08-11T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows &lt;em&gt;no&lt;/em&gt; header at all. Just the navigation.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/no-header/">&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2015-08-11T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/no-header-but-image/</id>
+			<title>No Header but Article Image</title>
+			<link href="http://localhost:4000/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" />
+			<updated>2015-03-12T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>Feeling Responsive enables you to get the attention of visitors. If you don&apos;t want to use a big header, use an image for the article instead.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/no-header-but-image/">&lt;p&gt;First turn of the header with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
+image:
+    title: unsplash_eagle.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2015-03-12T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/header-with-text/</id>
+			<title>Weeks 4 + 5</title>
+			<link href="http://localhost:4000/design/header-with-text/" rel="alternate" type="text/html" title="Weeks 4 + 5" />
+			<updated>2015-02-10T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>Weeks 4 + 5: I worked on understanding the FI2POP algorithm, but ran into a problem...</summary>
+			<content type="html" xml:base="http://localhost:4000/design/header-with-text/">&lt;!--more--&gt;
+
+&lt;h2 id=&quot;events&quot;&gt;Events:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Evolution Gym won’t work!!!&lt;/li&gt;
+  &lt;li&gt;NEW members of lab&lt;/li&gt;
+  &lt;li&gt;Problem with the fitness function not recognizing the material&lt;/li&gt;
+  &lt;li&gt;Bigger project: evolutionary robotics&lt;/li&gt;
+  &lt;li&gt;Professor Soros sick.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Because of the shift in the lab, evolution gym not working, and professor Soros being sick, it was a very research-y week. I ended up researching more evolutionary robotics rather than EAs.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-list&quot;&gt;Reading List&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;On the Entanglement between Evolvability and Fitness: an Experimental Study on Voxel-based Soft Robots, by Dr. Soros&lt;/li&gt;
+  &lt;li&gt;On a Feasible–Inf easible–Infeasible T easible Two-Population (FI-2P opulation (FI-2Pop) Genetic op) Genetic
+Algorithm for Constrained Optimization: Distance Tracing and no
+Free Lunch, by Steven O. Kimbrough&lt;/li&gt;
+  &lt;li&gt;Surrogate Infeasible Fitness Acquirement FI-2Pop
+for Procedural Content Generation, by Gallotta et al.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;group-research&quot;&gt;Group research&lt;/h2&gt;
+
+&lt;p&gt;Since more people joined the lab, Dr. Soros organized events where we all would meet up and discuss our overarching topic she is focusing on: creative means for studying feasibility in evolutionary life. Since her research focuses on game design and game research, this week, out reading was:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IEE Conference on Games 2021 Keynote&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;flex-video&quot;&gt;&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://youtu.be/L--IxUH4fac&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;!-- /.flex-video --&gt;
+
+&lt;h2 id=&quot;problem-this-week-evolution-not-working-on-operating-systems&quot;&gt;PROBLEM THIS WEEK: Evolution not working on operating systems&lt;/h2&gt;
+
+&lt;p&gt;This week, we tried to download the Evolution Gym software, but unfortunately the packages would not load and the python files would not work. Given this, Dr. Soros worked with me to debug my issue, trying things such as:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use a VM with different operating systems&lt;/li&gt;
+  &lt;li&gt;Stack Overflow&lt;/li&gt;
+  &lt;li&gt;Using different computers all together&lt;/li&gt;
+  &lt;li&gt;Contacting the people of Evolution Gym&lt;/li&gt;
+  &lt;li&gt;Recruiting more people to figure out the issue
+Nothing, unfortunately worked. Thus, we may have to change platforms. This, however, will not change the trajectory of our research, as their other other voxel-based platforms for soft robots.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thus, much of my work was focused on research and integrating myself with the larger research group.&lt;/p&gt;
+
+&lt;h2 id=&quot;define-more-terms&quot;&gt;Define more terms&lt;/h2&gt;
+&lt;dl&gt;
+  &lt;dt&gt;Neural networks&lt;/dt&gt;
+  &lt;dd&gt;Memory! Complex digital systems that take the form of human-modeled neural or brain connections. They can represent different “neurons” or “types” or neurons.&lt;/dd&gt;
+  &lt;dt&gt;The Reality Gap&lt;/dt&gt;
+  &lt;dd&gt;Solutions generated in simulation may not always work in “reality” on tangible robots; hence, there is a “gap” in what is generateable vs. concienvable.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Reduce the reality gap: Transferability functions, encourage development of robust controllers (“envelope of noise”, Jakobi 1995), encourage reactivity of controllers (?), add online adaptation abilities to improve controller robustness.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Selective pressure&lt;/dt&gt;
+  &lt;dd&gt;External agents that influence the survivability for an agent in an environment. External agents may have more impact that the encodings.&lt;/dd&gt;
+  &lt;dt&gt;Complexification&lt;/dt&gt;
+  &lt;dd&gt;A theoretical basis for whether robot complexity is defined through “robustness” or neural networks.&lt;/dd&gt;
+  &lt;dt&gt;Reinforcement learning&lt;/dt&gt;
+  &lt;dd&gt;Similar to ER, they both deal with agents obtaining rewards by interacting in their envriinments to achieve the optimal outcome, with the reward/outcome being the fitness value. On the other hand, ERs only use the global value for the outcome and not for state-action pairs.&lt;/dd&gt;
+  &lt;dt&gt;Open-ended evolution&lt;/dt&gt;
+  &lt;dd&gt;The aspect of evolution that is constantly capable of morphological and behavioral changes and innovations. Qualitites: increasing diversity and complexity, continuous adaptation.&lt;/dd&gt;
+  &lt;dt&gt;Transferability functions&lt;/dt&gt;
+  &lt;dd&gt;Function that prediicts the limits of simulations themselves. Transfers dozens of controllers during the evolutionary process to track both performance and simulation.&lt;/dd&gt;
+  &lt;dt&gt;Genotype-phenotype map&lt;/dt&gt;
+  &lt;dd&gt;A map for neural networks that links genes to their traits. The mappings seek to reproduce considency, regularity, modularity, and hierarchy from natural systems.&lt;/dd&gt;
+  &lt;dt&gt;Evolvability&lt;/dt&gt;
+  &lt;dd&gt;The ability for a population to “evolve” over time, quantified on a group capacity, not on the individual.&lt;/dd&gt;
+  &lt;dt&gt;The Baldwin Effect&lt;/dt&gt;
+  &lt;dd&gt;(in relation to learning and evolution conjointly): suggests that learning may facilitate evolution to create a selective pressure, which in turn makes it easier to discover optimal behaviors. Explores the interaction between learning and evolving and whether they lead to the same outcome.&lt;/dd&gt;
+  &lt;dt&gt;Environment-Driven Evolutionary Robots&lt;/dt&gt;
+  &lt;dd&gt;he reliance of robots to develop based on non-enginerained “DNA” but reaction to the world around. A limitation is that the environment changes often, which is difficult for robots to anticipate and adapt to uncertainty.&lt;/dd&gt;
+&lt;/dl&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2015-02-10T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/header-logo-only/</id>
+			<title>Header With Logo Only</title>
+			<link href="http://localhost:4000/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
+			<updated>2014-10-09T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/header-logo-only/">&lt;p&gt;No front matter code needed.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2014-10-09T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/header-image-color/</id>
+			<title>Header Image With Background Color</title>
+			<link href="http://localhost:4000/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" />
+			<updated>2014-10-09T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/header-image-color/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;alert-box alert &quot;&gt;&lt;p&gt;WARNING: To make this work the value of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;background-color&lt;/code&gt; must be inbetween quotes.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image: &quot;header_unsplash_2-970x.jpg&quot;
+    background-color: &quot;#fabb00&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2014-10-09T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/header-full-width-image/</id>
+			<title>Header with a Full-Width-Image</title>
+			<link href="http://localhost:4000/design/header-full-width-image/" rel="alternate" type="text/html" title="Header with a Full-Width-Image" />
+			<updated>2014-10-09T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Luci Feinberg</name>
+					
+					
+					
+				</author>
+			
+			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header with a &lt;em&gt;full-width-image&lt;/em&gt;.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/header-full-width-image/">&lt;p&gt;It’s so easy to do. Just define in front matter your image.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2014-10-09T00:00:00-04:00</published>
+		</entry>
+	
+</feed>

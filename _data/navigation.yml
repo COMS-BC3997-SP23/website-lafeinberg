@@ -1,7 +1,26 @@
-main:
-  - title: "Home"
-    url: "/"
-  - title: "GitHub"
-    url: "https://github.com/COMS-BC3997-SP23"
-  - title: "Week1"
-    url: "/people"
+- title: Start
+  url: "/"
+  side: left
+
+- title: Proposal
+  url: "/getting-started/"
+  side: left
+
+- title: "Weekly Updates"
+  url: "/design/typography/typography/"
+  side: left
+  dropdown:
+  - title: "Week 1 + 2"
+    url: "/design/typography/typography/"
+  - title: "Week 3" 
+    url: "/changelog/"
+  - title: "Week 4 + 5"
+    url: "/design/header-with-text/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

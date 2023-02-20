@@ -1,0 +1,34 @@
+- name: GitHub
+  url: http://github.com/lafeinberg
+  class: icon-github
+  title: Code und mehr...
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/luci-feinberg-461859231
+  class: icon-linkedin
+  title: "Personal LinkedIn link"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
