@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>COMS BC3997 Project</title>
-	<updated>2023-02-20T19:01:52-05:00</updated>
+	<updated>2023-03-20T15:28:11-04:00</updated>
 
 	<subtitle>»An Exploration of the Feasible-Infeasible Two Population Algorithm in Evolutionary Robotics</subtitle>
 
@@ -316,13 +316,13 @@ The purpose of the Evolution Gym is to explore co-design to solve problems regar
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;&lt;strong&gt;What are the next steps?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;The two weeks before break. &amp;middot; &lt;strong&gt;Week 7 + 8&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Week 6&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -384,13 +384,13 @@ image:
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;&lt;strong&gt;What are the next steps?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;The two weeks before break. &amp;middot; &lt;strong&gt;Week 7 + 8&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Week 6&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -527,8 +527,8 @@ Nothing, unfortunately worked. Thus, we may have to change platforms. This, howe
 	
 		<entry>
 			<id>http://localhost:4000/design/header-logo-only/</id>
-			<title>Header With Logo Only</title>
-			<link href="http://localhost:4000/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
+			<title>What are the next steps?</title>
+			<link href="http://localhost:4000/design/header-logo-only/" rel="alternate" type="text/html" title="What are the next steps?" />
 			<updated>2014-10-09T00:00:00-04:00</updated>
 
 			
@@ -541,35 +541,31 @@ Nothing, unfortunately worked. Thus, we may have to change platforms. This, howe
 					
 				</author>
 			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/header-logo-only/">&lt;p&gt;No front matter code needed.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
+			<summary>High level description of what the rest of the semester has in store.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/header-logo-only/">&lt;h1 id=&quot;researchacademic&quot;&gt;Research/Academic&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;The object is to write is to write an academic paper, so I must continue reading papers. Potential topics include: Other evolutionary algorithms, genertic algorithms, reinforcement learning, applications of EAs in procedural content generation.&lt;/li&gt;
+  &lt;li&gt;Fine tune the Fi2Pop Algorithm&lt;/li&gt;
+  &lt;li&gt;Work as a group with the REVOLVE team on hardware&lt;/li&gt;
+  &lt;li&gt;Find other EAs to run and modify&lt;/li&gt;
+  &lt;li&gt;More research papers!88&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&quot;what-can-i-help-with&quot;&gt;What can I help with?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I’ve spent way too much trying to figure out Jekyll, so I can try to help with that&lt;/li&gt;
+  &lt;li&gt;Java, Python, C++&lt;/li&gt;
+  &lt;li&gt;I have found a lot of databases for interesting research on EAs and robotics – I can share!&lt;/li&gt;
+  &lt;li&gt;Nothing much, sorry!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-i-need-help-with&quot;&gt;What I need help with&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I am a bit confused with pictures on Jekyll&lt;/li&gt;
+  &lt;li&gt;I don’t know how to get rid of the extraneous information (as seen below)&lt;/li&gt;
+  &lt;li&gt;Types and proof reading&lt;/li&gt;
+&lt;/ul&gt;
 </content>
 
 			
@@ -588,8 +584,8 @@ Nothing, unfortunately worked. Thus, we may have to change platforms. This, howe
 	
 		<entry>
 			<id>http://localhost:4000/design/header-image-color/</id>
-			<title>Header Image With Background Color</title>
-			<link href="http://localhost:4000/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" />
+			<title>Week 7 + 8</title>
+			<link href="http://localhost:4000/design/header-image-color/" rel="alternate" type="text/html" title="Week 7 + 8" />
 			<updated>2014-10-09T00:00:00-04:00</updated>
 
 			
@@ -602,46 +598,66 @@ Nothing, unfortunately worked. Thus, we may have to change platforms. This, howe
 					
 				</author>
 			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/header-image-color/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;alert-box alert &quot;&gt;&lt;p&gt;WARNING: To make this work the value of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;background-color&lt;/code&gt; must be inbetween quotes.&lt;/p&gt;
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/design/header-image-color/">
+&lt;div class=&quot;alert-box alert &quot;&gt;&lt;p&gt;WARNING: These two weeks were very intertwined, so I am including them on the same page.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image: &quot;header_unsplash_2-970x.jpg&quot;
-    background-color: &quot;#fabb00&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;week-7&quot;&gt;Week 7&lt;/h2&gt;
 
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
+&lt;h1 id=&quot;problems&quot;&gt;Problems&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Eric Medveet responds, we can now use 2dVrSim&lt;/li&gt;
+  &lt;li&gt;Combine the “old” and “new” versions or 2dVrSim and 2d-Robot-Evolution&lt;/li&gt;
+  &lt;li&gt;Evogym still not working&lt;/li&gt;
+  &lt;li&gt;Problems with compiler with Medvet software, but it was an issue with compiler&lt;/li&gt;
+  &lt;li&gt;Works on Mac OS with certain installations and futher dependencies.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h1 id=&quot;notes-for-downloading-2d-robot-evolution&quot;&gt;Notes for downloading 2D-robot-evolution&lt;/h1&gt;
+
+&lt;p&gt;MAC OS&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;git clone https://github.com/ericmedvet/2d-robot-evolution.git&lt;/li&gt;
+  &lt;li&gt;cd 2d-robot-evolution&lt;/li&gt;
+  &lt;li&gt;mvn clean package&lt;/li&gt;
+  &lt;li&gt;brew install mvn&lt;/li&gt;
+  &lt;li&gt;cd ..&lt;/li&gt;
+  &lt;li&gt;Install Java 8 (on website)&lt;/li&gt;
+  &lt;li&gt;pip install install-jdk&lt;/li&gt;
+  &lt;li&gt;which java&lt;/li&gt;
+  &lt;li&gt;export JAVA_HOME=/Library/Java/Home&lt;/li&gt;
+  &lt;li&gt;echo $JAVA_HOME&lt;/li&gt;
+  &lt;li&gt;brew install temurin&lt;/li&gt;
+  &lt;li&gt;java -cp “2d-robot-evolution/io.github.ericmedvet.robotevo2d.assembly/+ target/robotevo2d.assembly-bin/modules/*” io.github.ericmedvet.robotevo2d.main.Starter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Resources:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Main page: ericmedvet/2d-robot-evolution: A Java framework for experimenting with the evolutionary optimization of 2D simulated robotic agents. (github.com)&lt;/li&gt;
+  &lt;li&gt;Install Maven on MacOS: https://tecadmin.net/how-to-install-maven-on-macos/
+https://www.digitalocean.com/community/tutorials/install-maven-mac-os&lt;/li&gt;
+  &lt;li&gt;Download java: https://www.java.com/en/&lt;/li&gt;
+  &lt;li&gt;Solve javac errors: https://developer.apple.com/forums/thread/687489&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;week-8&quot;&gt;Week 8&lt;/h2&gt;
+
+&lt;h1 id=&quot;problems-1&quot;&gt;Problems&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Try to transfer the protocol to the new version&lt;/li&gt;
+  &lt;li&gt;New addition to group&lt;/li&gt;
+  &lt;li&gt;Get acquainted with everything again (new software)&lt;/li&gt;
+  &lt;li&gt;Conclusion: this is definitely not a one-semester project&lt;/li&gt;
+  &lt;li&gt;Tested certain pre-embedded algorithms to see compatibility&lt;/li&gt;
+  &lt;li&gt;Find issue with the old and new softwares/incompatibility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;high-level-idea&quot;&gt;High level idea:&lt;/h1&gt;
+&lt;p&gt;Right now we are working on how to develop a Feasible-infeasible two population algorithm that works for voxel based robots. This takes manipulating old code and integrating our own. Which entails writing our own fitness function.&lt;/p&gt;
+
+&lt;p&gt;Thus, right now, we are writing the Java version of the Fi2Pop algorithm. And we will test the function on the 2d-robot-evolution software.&lt;/p&gt;
 
 </content>
 
@@ -700,13 +716,13 @@ Nothing, unfortunately worked. Thus, we may have to change platforms. This, howe
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Weeks 4 + 5 &amp;middot; &lt;strong&gt;Weeks 4 + 5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;&lt;strong&gt;What are the next steps?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;The two weeks before break. &amp;middot; &lt;strong&gt;Week 7 + 8&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Week 6&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   

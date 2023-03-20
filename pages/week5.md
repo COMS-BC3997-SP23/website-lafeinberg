@@ -1,19 +1,23 @@
 ---
-layout: page
-title:  "Week 6"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern."
-categories:
-    - design
-tags:
-    - design
-    - pattern
-    - header
+layout: page-fullwidth
+title: "R"
+subheadline: "Week 6"
+meta_teaser: "Week 7 we had many problems with Evolution Gym. Wi"
+teaser: "Week #4 + Week #5" Entailed more work in discovering what FI2Pop Algorithms are."
 header:
-    image: header_unsplash_2-970x.jpg
-    pattern: pattern_concrete.jpg
+    #image: evogym-1.jpg
+    background-color: "#262930"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
+# image:
+#     thumb:  homepage_typography-thumb.jpg
+#     homepage: homepage_typography.jpg
+#     caption: Image by Antonio
+#     caption_url: "http://www.aisleone.net/"
+# categories:
+#     - design
+#     - typography
+permalink: /week5/
 ---
 
 ## Events: 
@@ -22,7 +26,7 @@ header:
 + Evolution Gym won’t work on Mac OS
 + Translate code into Python
 + Eric Medvet → reach out to Eric about using 2dvrsim (another software)
-+ Jagdeep Singh → Doesn’t respond fast about Evolution Gym<!--more-->
++ Jagdeep Singh → Doesn’t respond fast about Evolution Gym
 
 ## PROBLEM THIS WEEK: Evolution not working on operating systems
  + Emailing Eric Medvet and Jagdeep Singh
@@ -31,5 +35,7 @@ header:
 + 2D-VSR-Sim: A simulation tool for the optimization of 2-D voxel-based soft robots.Eric Medvet
 
 <div class="flex-video"><iframe width="1280" height="720" src="https://youtu.be/L--IxUH4fac" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+
+
 
 

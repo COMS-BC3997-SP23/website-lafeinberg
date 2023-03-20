@@ -16,6 +16,12 @@
     url: "/changelog/"
   - title: "Week 4 + 5"
     url: "/design/header-with-text/"
+  - title: "Week 6"
+    url: "/design/header-image-pattern/"
+  - title: "Week 7 + 8"
+    url: "/design/header-image-color/"
+  - title: "What's next?"
+    url: "/design/header-logo-only/"
 
 - title: "Search"
   url: "/search/"

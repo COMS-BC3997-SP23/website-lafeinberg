@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Header Image With Background Color</title>
+	<title>Week 7 + 8</title>
 
     <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
@@ -26,7 +26,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter.">
+	<meta name="description" content="">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -36,8 +36,8 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Header Image With Background Color">
-	<meta property="og:description" content="Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter.">
+	<meta property="og:title" content="Week 7 + 8">
+	<meta property="og:description" content="">
 	<meta property="og:url" content="http://localhost:4000/design/header-image-color/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -161,6 +161,21 @@
 
                       <li><a  href="http://localhost:4000/design/header-with-text/">Week 4 + 5</a></li>
                     
+
+                      
+
+                      <li><a  href="http://localhost:4000/design/header-image-pattern/">Week 6</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/design/header-image-color/">Week 7 + 8</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/design/header-logo-only/">What&#39;s next?</a></li>
+                    
                   </ul>
 
               </li>
@@ -282,58 +297,78 @@
 				
 
 				<div itemprop="name">
-					<p class="subheadline">Headers With Style</p>
-					<h1>Header Image With Background Color</h1>
+					<p class="subheadline">The two weeks before break.</p>
+					<h1>Week 7 + 8</h1>
 				</div>
 			</header>
 
 
 			
 			<p class="teaser" itemprop="description">
-				Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter.
+				
 			</p>
 			
 
 			<div itemprop="articleSection">
-			<p>It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the <a href="http://localhost:4000/design/header-image-pattern/">example with a background pattern</a>.
-<!--more--></p>
-
-<h2 id="front-matter-code">Front Matter Code</h2>
-
-<div class="alert-box alert "><p>WARNING: To make this work the value of <code class="language-plaintext highlighter-rouge">background-color</code> must be inbetween quotes.</p>
+			
+<div class="alert-box alert "><p>WARNING: These two weeks were very intertwined, so I am including them on the same page.</p>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>header:
-    image: "header_unsplash_2-970x.jpg"
-    background-color: "#fabb00"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-</code></pre></div></div>
+<h2 id="week-7">Week 7</h2>
 
-<h3 class="t60" id="all-header-styles">All Header-Styles</h3>
-
-<ul class="side-nav">
-
-  
-
-    
-      <li><a href="http://localhost:4000/design/no-header/">Headers With Style &middot; <strong>No Header</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/no-header-but-image/">Headers With Style &middot; <strong>No Header but Article Image</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/header-with-text/">Weeks 4 + 5 &middot; <strong>Weeks 4 + 5</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/header-logo-only/">Headers With Style &middot; <strong>Header With Logo Only</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/header-image-color/">Headers With Style &middot; <strong>Header Image With Background Color</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/header-full-width-image/">Headers With Style &middot; <strong>Header with a Full-Width-Image</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/header-image-pattern/">Headers With Style &middot; <strong>Header Image With Pattern</strong></a></li>
-    
-
-  
+<h1 id="problems">Problems</h1>
+<ul>
+  <li>Eric Medveet responds, we can now use 2dVrSim</li>
+  <li>Combine the “old” and “new” versions or 2dVrSim and 2d-Robot-Evolution</li>
+  <li>Evogym still not working</li>
+  <li>Problems with compiler with Medvet software, but it was an issue with compiler</li>
+  <li>Works on Mac OS with certain installations and futher dependencies.</li>
 </ul>
+
+<h1 id="notes-for-downloading-2d-robot-evolution">Notes for downloading 2D-robot-evolution</h1>
+
+<p>MAC OS</p>
+
+<ul>
+  <li>git clone https://github.com/ericmedvet/2d-robot-evolution.git</li>
+  <li>cd 2d-robot-evolution</li>
+  <li>mvn clean package</li>
+  <li>brew install mvn</li>
+  <li>cd ..</li>
+  <li>Install Java 8 (on website)</li>
+  <li>pip install install-jdk</li>
+  <li>which java</li>
+  <li>export JAVA_HOME=/Library/Java/Home</li>
+  <li>echo $JAVA_HOME</li>
+  <li>brew install temurin</li>
+  <li>java -cp “2d-robot-evolution/io.github.ericmedvet.robotevo2d.assembly/+ target/robotevo2d.assembly-bin/modules/*” io.github.ericmedvet.robotevo2d.main.Starter</li>
+</ul>
+
+<p>Resources:</p>
+<ul>
+  <li>Main page: ericmedvet/2d-robot-evolution: A Java framework for experimenting with the evolutionary optimization of 2D simulated robotic agents. (github.com)</li>
+  <li>Install Maven on MacOS: https://tecadmin.net/how-to-install-maven-on-macos/
+https://www.digitalocean.com/community/tutorials/install-maven-mac-os</li>
+  <li>Download java: https://www.java.com/en/</li>
+  <li>Solve javac errors: https://developer.apple.com/forums/thread/687489</li>
+</ul>
+
+<h2 id="week-8">Week 8</h2>
+
+<h1 id="problems-1">Problems</h1>
+<ul>
+  <li>Try to transfer the protocol to the new version</li>
+  <li>New addition to group</li>
+  <li>Get acquainted with everything again (new software)</li>
+  <li>Conclusion: this is definitely not a one-semester project</li>
+  <li>Tested certain pre-embedded algorithms to see compatibility</li>
+  <li>Find issue with the old and new softwares/incompatibility</li>
+</ul>
+
+<h1 id="high-level-idea">High level idea:</h1>
+<p>Right now we are working on how to develop a Feasible-infeasible two population algorithm that works for voxel based robots. This takes manipulating old code and integrating our own. Which entails writing our own fitness function.</p>
+
+<p>Thus, right now, we are writing the Java version of the Fi2Pop algorithm. And we will test the function on the 2d-robot-evolution software.</p>
 
 
 			</div>
@@ -362,7 +397,7 @@
 				
 				<div class="medium-2 columns text-center"><a class="button small radius expand" href="http://localhost:4000/blog/archive/" title="Blog Archive">Archive</a></div><!-- /.small-4.columns -->
 				
-				<div class="medium-5 columns text-right"><a class="button small radius next" href="http://localhost:4000/design/header-logo-only/">Header With Logo Only &raquo;</a></div><!-- /.small-4.columns -->
+				<div class="medium-5 columns text-right"><a class="button small radius next" href="http://localhost:4000/design/header-logo-only/">What are the next steps? &raquo;</a></div><!-- /.small-4.columns -->
 				
 			</div>
 			
